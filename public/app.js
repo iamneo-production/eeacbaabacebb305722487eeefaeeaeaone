@@ -15,7 +15,7 @@ function calculateScore(){
             total_score += 1;
         }
     }
-
+    
     let answer_for_q3 = document.getElementsByName("Planet");
     for(var i = 0; i < answer_for_q3.length; i++){
         if(answer_for_q3[i].checked){
