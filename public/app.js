@@ -23,5 +23,5 @@ function calculateScore(){
         }
     }
 
-    document.getElementById("result").innerHTML = "You scored "+ total_score +" out of 3 correct!"
+    document.getElementById("result").innerHTML = "You scored "+total_score+" out of 3 correct!"
 }
